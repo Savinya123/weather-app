@@ -13,13 +13,13 @@ A simple Weather App built using Python and Tkinter.
 ## 📸 Screenshots
 
 ### Main Screen
-![Main Screen](screenshot1.png)
+![Main Screen](screenshot.png)
 
 ### Weather Result
-![Weather Result](screenshot2.png)
+![Weather Result](screenshot.png)
 
 ### GUI View
-![GUI](screenshot3.png)
+![GUI](screenshot.png)
 
 ## 🛠️ Tech Stack
 - Python
