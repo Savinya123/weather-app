@@ -10,16 +10,9 @@ A simple Weather App built using Python and Tkinter.
 - 🎨 Emoji-rich GUI
 - 🌙 Dark theme interface
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-### Main Screen
-![Main Screen](screenshot.png)
-
-### Weather Result
-![Weather Result](screenshot.png)
-
-### GUI View
-![GUI](screenshot.png)
+![Weather App](screenshot.png)
 
 ## 🛠️ Tech Stack
 - Python
